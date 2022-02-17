@@ -1,6 +1,7 @@
 [
   {
-    "topic": "sports",
+    "name": "sports",
+    "icon": "sports.jpg",
     "subs": [
       {
         "name": "nba",
@@ -474,7 +475,8 @@
     ]
   },
   {
-    "topic": "aww",
+    "name": "aww",
+    "icon": "",
     "subs": [
       {
         "name": "rarepuppers",
@@ -664,7 +666,8 @@
     ]
   },
   {
-    "topic": "gaming",
+    "name": "gaming",
+    "icon": "gaming.avif",
     "subs": [
       {
         "name": "NintendoSwitch",
@@ -1105,7 +1108,8 @@
     ]
   },
   {
-    "topic": "wholesome",
+    "name": "wholesome",
+    "icon": "",
     "subs": [
       {
         "name": "MadeMeSmile",
@@ -1157,7 +1161,8 @@
     ]
   },
   {
-    "topic": "memes",
+    "name": "memes",
+    "icon": "",
     "subs": [
       {
         "name": "BlackPeopleTwitter",
@@ -1234,7 +1239,8 @@
     ]
   },
   {
-    "topic": "art and deseign",
+    "name": "art and deseign",
+    "icon": "",
     "subs": [
       {
         "name": "coolguides",
@@ -1533,7 +1539,8 @@
     ]
   },
   {
-    "topic": "books and writing",
+    "name": "books and writing",
+    "icon": "",
     "subs": [
       {
         "name": "comicbooks",
@@ -1558,7 +1565,8 @@
     ]
   },
   {
-    "topic": "crypto",
+    "name": "crypto",
+    "icon": "",
     "subs": [
       {
         "name": "CryptoCurrency",
@@ -1635,7 +1643,8 @@
     ]
   },
   {
-    "topic": "food",
+    "name": "food",
+    "icon": "",
     "subs": [
       { "name": "StupidFood" },
       {
@@ -1878,7 +1887,8 @@
     ]
   },
   {
-    "topic": "music",
+    "name": "music",
+    "icon": "",
     "subs": [
       {
         "name": "Kanye",
@@ -1939,7 +1949,8 @@
     ]
   },
   {
-    "topic": "mindblowing",
+    "name": "mindblowing",
+    "icon": "",
     "subs": [
       {
         "name": "Damnthatsinteresting",
@@ -2005,7 +2016,8 @@
     ]
   },
   {
-    "topic": "outdoors",
+    "name": "outdoors",
+    "icon": "",
     "subs": [
       {
         "name": "backpacking",
@@ -2076,7 +2088,8 @@
     ]
   },
   {
-    "topic": "learning",
+    "name": "learning",
+    "icon": "",
     "subs": [
       {
         "name": "educationalgifs",
@@ -2114,7 +2127,8 @@
     ]
   },
   {
-    "topic": "finance and buisiness",
+    "name": "finance and buisiness",
+    "icon": "",
     "subs": [
       {
         "name": "CryptoCurrency",
@@ -2305,7 +2319,8 @@
     ]
   },
   {
-    "topic": "news",
+    "name": "news",
+    "icon": "",
     "subs": [
       {
         "name": "savedyouaclick",
@@ -2322,7 +2337,8 @@
     ]
   },
   {
-    "topic": "health and fitness",
+    "name": "health and fitness",
+    "icon": "",
     "subs": [
       {
         "name": "bodybuilding",
@@ -2474,7 +2490,8 @@
     ]
   },
   {
-    "topic": "tech",
+    "name": "tech",
+    "icon": "",
     "subs": [
       {
         "name": "gadgets",
@@ -2789,7 +2806,8 @@
     ]
   },
   {
-    "topic": "travel",
+    "name": "travel",
+    "icon": "",
     "subs": [
       {
         "name": "CasualUK",
@@ -3148,7 +3166,8 @@
     ]
   },
   {
-    "topic": "parenting",
+    "name": "parenting",
+    "icon": "",
     "subs": [
       {
         "name": "BabyBumps",
@@ -3176,7 +3195,8 @@
     ]
   },
   {
-    "topic": "vroom",
+    "name": "vroom",
+    "icon": "",
     "subs": [
       { "name": "IdiotsInCars" },
       {
@@ -3377,7 +3397,8 @@
     ]
   },
   {
-    "topic": "photography",
+    "name": "photography",
+    "icon": "",
     "subs": [
       {
         "name": "itookapicture",
@@ -3437,7 +3458,8 @@
     ]
   },
   {
-    "topic": "science",
+    "name": "science",
+    "icon": "",
     "subs": [
       {
         "name": "space",
@@ -3500,7 +3522,8 @@
     ]
   },
   {
-    "topic": "videos",
+    "name": "videos",
+    "icon": "",
     "subs": [
       {
         "name": "funny",
@@ -3591,7 +3614,8 @@
     ]
   },
   {
-    "topic": "tv",
+    "name": "tv",
+    "icon": "",
     "subs": [
       {
         "name": "freefolk",
@@ -3916,7 +3940,8 @@
     ]
   },
   {
-    "topic": "e3",
+    "name": "e3",
+    "icon": "",
     "subs": [
       {
         "name": "NintendoSwitch",
@@ -4069,7 +4094,8 @@
     ]
   },
   {
-    "topic": "discussion",
+    "name": "discussion",
+    "icon": "",
     "subs": [
       { "name": "iwatchedanoldmovie" },
       { "name": "firstworldproblems" },
@@ -4080,7 +4106,8 @@
     ]
   },
   {
-    "topic": "pics & gifs",
+    "name": "pics & gifs",
+    "icon": "",
     "subs": [
       {
         "name": "MurderedByWords",
@@ -4253,7 +4280,8 @@
     ]
   },
   {
-    "topic": "beauty",
+    "name": "beauty",
+    "icon": "",
     "subs": [
       {
         "name": "bodymods",
@@ -4338,7 +4366,8 @@
     ]
   },
   {
-    "topic": "relationships",
+    "name": "relationships",
+    "icon": "",
     "subs": [
       {
         "name": "Mommit",
@@ -4381,7 +4410,8 @@
     ]
   },
   {
-    "topic": "fashion",
+    "name": "fashion",
+    "icon": "",
     "subs": [
       {
         "name": "Watches",
